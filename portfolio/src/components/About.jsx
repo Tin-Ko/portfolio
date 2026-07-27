@@ -9,35 +9,35 @@ function About() {
 
       <div className="space-y-4 text-stone-600 leading-relaxed text-sm">
         <p>
-          I'm a software engineer with a passion for building performant, scalable systems 
-          that bridge cutting-edge AI with real-world applications. Currently at{' '}
-          <span className="text-slate-900 font-medium">Sweep Digital Inc.</span>, 
-          I architect full-stack analytics platforms powered by event-driven RAG systems, 
-          fine-tuned ML models, and cloud-native infrastructure — transforming tens of 
-          thousands of user events into structured, actionable insights.
+          I'm a software engineer who really loves building — whether that's projects or
+          products, I'm a builder at heart. I'm currently at{' '}
+          <span className="text-slate-900 font-medium">Sweep Digital Inc.</span>, where I
+          engineer a cross-platform analytics platform powered by an event-driven RAG
+          system, turning tens of thousands of raw browsing events into structured,
+          actionable insights.
         </p>
 
         <p>
-          My background spans GPU-accelerated computing, mobile development, and 
-          cybersecurity. I hold a{' '}
+          I'm finishing a{' '}
           <span className="text-slate-900 font-medium">
-            M.S. in Computer Science from California State University, Fullerton
+            M.S. in Computer Science at California State University, Fullerton
           </span>{' '}
-          (GPA: 3.93) and a{' '}
+          (GPA: 3.87) and hold a{' '}
           <span className="text-slate-900 font-medium">
-            B.S. from National Central University
+            B.S. in Computer Science and Information Engineering from National Central
+            University
           </span>{' '}
-          (GPA: 3.94), where I earned the Judge's Award in the Special Project 
-          Competition. I'm also{' '}
-          <span className="text-slate-900 font-medium">CompTIA Security+ certified</span>{' '}
-          and competed in the Western Regional Collegiate Cyber Defense Competition (WRCCDC).
+          (GPA: 3.67). Along the way I've co-founded a HealthTech startup, researched AI at
+          Hon Hai Research Institute (Foxconn), and written CUDA kernels that made access
+          control policy analysis 1400x faster.
         </p>
 
         <p>
-          When I'm not writing code, I'm exploring the intersection of AI and developer 
-          tooling — from building ATS-beating trend trackers with distributed big data 
-          pipelines, to training GANs that can generate entire Chinese font families from 
-          just a handful of reference characters.
+          I love startups, because they let me actually build things and do impactful work —
+          and the fast pace pushes me toward creative solutions that meet real-world
+          requirements. I also genuinely enjoy talking to people: not just teammates, but
+          customers too, and I'm just as interested in the business side of what we're
+          building.
         </p>
       </div>
 
